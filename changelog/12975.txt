@@ -1,0 +1,4 @@
+changelog/12975.txt:
+```release-note:deprecation
+auth/kubernetes: `disable_iss_validation` and `issuer` configuration fields are deprecated
+```
